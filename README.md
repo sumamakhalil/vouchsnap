@@ -35,7 +35,8 @@ The platform follows a production-ready SaaS architecture with secure authentica
 
 ## Live Demo
 
-**Coming Soon**
+Website: wwww.vouchsnap.com
+
 
 ---
 
@@ -211,7 +212,7 @@ Key takeaways include:
 
 If you'd like to discuss this project or collaborate on AI-powered SaaS products, feel free to connect.
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub Profile URL)*
+- LinkedIn: www.linkedin.com/in/muhammad-sumama-khalil
+- Email: somamakhalil212@gmail.com
 
 
